@@ -9,3 +9,14 @@ C:\dev\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentCont
 C:\dev\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
 C:\dev\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
 C:\dev\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CopyComplete
+C:\dev\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.deps.json
+C:\dev\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.dll
+C:\dev\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.pdb
+C:\dev\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\dev\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\dev\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csprojAssemblyReference.cache
+C:\dev\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+C:\dev\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfo.cs
+C:\dev\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CopyComplete
+C:\dev\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.dll
+C:\dev\ModelandoDominiosRicos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.pdb

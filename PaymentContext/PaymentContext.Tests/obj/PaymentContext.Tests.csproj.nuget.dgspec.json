@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {}
+    "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {}
   },
   "projects": {
-    "C:\\dev\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+    "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+        "projectUniqueName": "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
         "projectName": "PaymentContext.Domain",
-        "projectPath": "C:\\dev\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+        "projectPath": "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\PaymentContext\\PaymentContext.Domain\\obj\\",
+        "outputPath": "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\dev\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-                "projectPath": "C:\\dev\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+              "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+                "projectPath": "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
               }
             }
           }
@@ -50,6 +50,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.4, )"
             }
           },
           "imports": [
@@ -66,14 +70,14 @@
         }
       }
     },
-    "C:\\dev\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+    "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "projectUniqueName": "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
         "projectName": "PaymentContext.Shared",
-        "projectPath": "C:\\dev\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+        "projectPath": "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\PaymentContext\\PaymentContext.Shared\\obj\\",
+        "outputPath": "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -108,6 +112,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "flunt": {
+              "target": "Package",
+              "version": "[1.0.4, )"
             }
           },
           "imports": [
@@ -124,14 +132,14 @@
         }
       }
     },
-    "C:\\dev\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {
+    "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+        "projectUniqueName": "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
         "projectName": "PaymentContext.Tests",
-        "projectPath": "C:\\dev\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
+        "projectPath": "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\PaymentContext\\PaymentContext.Tests\\obj\\",
+        "outputPath": "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -150,11 +158,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\dev\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
-                "projectPath": "C:\\dev\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
+              "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj": {
+                "projectPath": "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj"
               },
-              "C:\\dev\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-                "projectPath": "C:\\dev\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+              "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+                "projectPath": "C:\\dev\\ModelandoDominiosRicos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
               }
             }
           }
@@ -183,6 +191,10 @@
             "coverlet.collector": {
               "target": "Package",
               "version": "[1.0.1, )"
+            },
+            "flunt": {
+              "target": "Package",
+              "version": "(, )"
             }
           },
           "imports": [
