@@ -190,3 +190,4 @@ C:\dev\ModelandoDominiosRicos\PaymentContext\PaymentContext.Tests\obj\Debug\netc
 C:\dev\ModelandoDominiosRicos\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.0\PaymentContext.Tests.csproj.CopyComplete
 C:\dev\ModelandoDominiosRicos\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.0\PaymentContext.Tests.dll
 C:\dev\ModelandoDominiosRicos\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.0\PaymentContext.Tests.pdb
+C:\dev\ModelandoDominiosRicos\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.0\Flunt.dll
